@@ -1,4 +1,4 @@
-#从零搭建 Webpack/React/Tailwindcss 项目
+# 从零搭建 Webpack/React/Tailwindcss 项目
 
 随着前端框架的发展，`vue-cli` 和 `create-react-app` 可以一键生成基础项目模板。但是对于新手来讲，跳过了很多细节。现在让我们从一个空文件夹开始，一步一步搭建起使用 Webpack 、React 和 Tailwindcss 框架的基础项目。在这个过程中，说明每个工具的作用，加深对现代前端工具链的理解。
 
